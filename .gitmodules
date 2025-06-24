@@ -1,0 +1,12 @@
+[submodule "01-starting-out"]
+	path = 01-starting-out
+	url = https://github.com/FlamingosProject/git-progress-display-demo.git
+	branch = 01-starting-out
+[submodule "02-elaborating"]
+	path = 02-elaborating
+	url = https://github.com/FlamingosProject/git-progress-display-demo.git
+	branch = 02-elaborating
+[submodule "03-improving"]
+	path = 03-improving
+	url = https://github.com/FlamingosProject/git-progress-display-demo.git
+	branch = 03-improving
